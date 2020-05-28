@@ -1,2 +1,2 @@
-# ds-schools-ke
-Data Science Schools in kenya
+
+# Data Science Schools in kenya
